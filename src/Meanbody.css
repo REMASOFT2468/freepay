@@ -1,0 +1,82 @@
+body {
+  background-color: black;
+}
+.man {
+  padding: 20px;
+}
+.man1 {
+  color: white;
+  display: flex;
+}
+.man2 {
+  display: flex;
+  width: 71px;
+  margin-left: 500px;
+  text-align: center;
+}
+li {
+  margin-left: 25px;
+  padding-top: 10px;
+}
+.man3 {
+  margin-top: 20px;
+  margin-left: 610px;
+  height: 30px;
+  width: 100px;
+  background-color: black;
+  color: white;
+}
+.man4 {
+  height: 100%;
+  width: 20px;
+  margin-top: 220px;
+}
+.man5 {
+  color: white;
+  padding: 130px;
+}
+.man6 {
+  display: flex;
+}
+.man7 {
+  display: flex;
+  padding-left: 20px;
+}
+.man8 {
+  padding-left: 15px;
+  color: chocolate;
+}
+.man9 {
+  height: 18px;
+  width: 3px;
+  background-color: white;
+  margin-top: 25px;
+  margin-left: 15px;
+}
+.man10 {
+  display: flex;
+}
+.man11 {
+  padding-left: 15px;
+  color: chocolate;
+}
+.man12 {
+  height: 2px;
+}
+.man13 {
+  display: flex;
+  padding-top: 30px;
+}
+.man14 {
+  width: 100px;
+  height: 25px;
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+}
+.man15 {
+  margin-left: 520px;
+  margin-top: -180px;
+  height: 30px;
+  width: 50px;
+}
